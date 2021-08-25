@@ -1,0 +1,108 @@
+body
+{
+    background-image: url(aif.jpg);
+    background-color: black;
+
+}
+#zegar
+{
+
+    color: rgb(73, 62, 62);
+    text-align: center;
+    
+}
+#container
+{
+
+
+    border: 7px black solid;
+    background-color: blanchedalmond;
+    height: 382px;
+    width: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+#onas
+{
+
+    
+
+}
+#linkgr
+{
+  
+    text-align: left;
+
+}
+#ytprz
+{
+    height: 65px;
+}
+
+#container2
+{
+
+    
+
+    border: 7px black solid;
+    background-color: blanchedalmond;
+    height: 600px;
+    width: 600px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+
+}
+#strglownat
+{
+     
+    transform: translate(29%);
+
+}
+#contonas
+{
+
+    
+    text-align: center;
+
+}
+#tektstonas1
+{
+    
+    border: 5px black solid;
+
+}
+#containerceny
+{
+
+    border: 7px black solid;
+    background-color: blanchedalmond;
+    height: 900px;
+    width: 1600px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+
+}
+
+#cenytekst1
+{
+
+    transform: translate(2%);
+
+
+
+}
+#kontakt
+{
+
+    transform: translate(2%);
+
+}
